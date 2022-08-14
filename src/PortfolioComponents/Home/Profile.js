@@ -1,9 +1,9 @@
 import React from "react";
 import "./Profile.css";
 import Typewriter from 'typewriter-effect';
-import BgImage from './images/bg.jpg';
+import BgImage from './images/bg.png';
 import BgShape from './images/shape-bg.png';
-import ProfilePhoto from './images/profilephoto.jpg';
+import ProfilePhoto from './images/profilephoto2.jpg';
 const Profile = () => {
   return (
     <div className="profile-section">
